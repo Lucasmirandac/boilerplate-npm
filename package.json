@@ -8,6 +8,9 @@
 		"start": "node server.js"
 	},
 	"author": "Lucas Costa",
+  "description": "A project for study",
+  "keywords": [ "freecodecamp", "code", "study" ],
+  "license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
